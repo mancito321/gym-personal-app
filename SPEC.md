@@ -1,5 +1,7 @@
 ##Spec entry point
 
+Backend implementation details: [`docs/Initial-work-backend.md`](docs/Initial-work-backend.md).
+
 General idea
 
 - small personal app for gym routines and exercises
@@ -22,7 +24,6 @@ features List [
     For now would be read only app,
     No users,
     No creating custom routines  initially
-
 ]
 
 First build: 

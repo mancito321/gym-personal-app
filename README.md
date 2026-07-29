@@ -2,8 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Implementation Specs
 
-under ./docs
-Initial spec for the project in ./SPEC.md
+- Product overview: [`SPEC.md`](./SPEC.md)
+- Backend: [`docs/Initial-work-backend.md`](./docs/Initial-work-backend.md)
 
 ## Getting Started
 
