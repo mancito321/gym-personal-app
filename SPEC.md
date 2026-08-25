@@ -2,6 +2,8 @@
 
 Backend implementation details: [`docs/Initial-work-backend.md`](docs/Initial-work-backend.md).
 
+Frontend implementation details: [`docs/Initial-work-frontend.md`](docs/Initial-work-frontend.md).
+
 General idea
 
 - small personal app for gym routines and exercises
